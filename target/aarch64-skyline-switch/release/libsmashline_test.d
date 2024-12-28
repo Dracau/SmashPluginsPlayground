@@ -1,0 +1,1 @@
+C:\Users\supre\Documents\SmashPluginsPlayground\target\aarch64-skyline-switch\release\libsmashline_test.so: C:\Users\supre\Documents\SmashPluginsPlayground\src\EDIT\mod.rs C:\Users\supre\Documents\SmashPluginsPlayground\src\Mario\mod.rs C:\Users\supre\Documents\SmashPluginsPlayground\src\lib.rs
